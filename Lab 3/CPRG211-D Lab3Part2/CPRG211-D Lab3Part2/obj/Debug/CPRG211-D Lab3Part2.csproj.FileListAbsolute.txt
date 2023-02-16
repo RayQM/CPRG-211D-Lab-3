@@ -1,0 +1,8 @@
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab3 Interfaces and Abstract\Lab 3\CPRG211-D Lab3Part2\CPRG211-D Lab3Part2\bin\Debug\CPRG211-D Lab3Part2.exe.config
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab3 Interfaces and Abstract\Lab 3\CPRG211-D Lab3Part2\CPRG211-D Lab3Part2\bin\Debug\CPRG211-D Lab3Part2.exe
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab3 Interfaces and Abstract\Lab 3\CPRG211-D Lab3Part2\CPRG211-D Lab3Part2\bin\Debug\CPRG211-D Lab3Part2.pdb
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab3 Interfaces and Abstract\Lab 3\CPRG211-D Lab3Part2\CPRG211-D Lab3Part2\obj\Debug\CPRG211-D Lab3Part2.csproj.AssemblyReference.cache
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab3 Interfaces and Abstract\Lab 3\CPRG211-D Lab3Part2\CPRG211-D Lab3Part2\obj\Debug\CPRG211-D Lab3Part2.csproj.SuggestedBindingRedirects.cache
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab3 Interfaces and Abstract\Lab 3\CPRG211-D Lab3Part2\CPRG211-D Lab3Part2\obj\Debug\CPRG211-D Lab3Part2.csproj.CoreCompileInputs.cache
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab3 Interfaces and Abstract\Lab 3\CPRG211-D Lab3Part2\CPRG211-D Lab3Part2\obj\Debug\CPRG211-D Lab3Part2.exe
+D:\Documents\SAIT\Semester 2\CPRG-211-D Object Oriented Programming2\Lab\Lab3 Interfaces and Abstract\Lab 3\CPRG211-D Lab3Part2\CPRG211-D Lab3Part2\obj\Debug\CPRG211-D Lab3Part2.pdb
